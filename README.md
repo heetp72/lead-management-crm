@@ -1,4 +1,4 @@
-# Lead Management CRM CRM
+# Lead Management CRM
 
 A premium, full-stack **Lead Management CRM** built as a production-grade SaaS
 product. Inspired by the polish of Linear, Notion, and Stripe Dashboard — with
